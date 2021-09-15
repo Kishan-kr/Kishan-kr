@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Kishan-Kumar
 - Languages that I know -> JAVA, C++, C, JavaScript
-- I have Knowledge of Web Development using HTML, CSS, JavaScript, and Bootstrap
+- Skills : Front End Web Development (including Bootstrap, React)
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning different Frameworks and Libraries that are used for efficient Web Development
+- 🌱 I’m currently doing BCA from Ambedkar Institute of Technology, Shakarpur, Delhi
 - 💞️ I’m looking for an intership in Front End Web Development
-- 📫 You can reach me through my mail id i.e., singhkishan9911@gmail.com
+- 📫 You can reach me through my mail id : singhkishan9911@gmail.com
 
 <!---
 Kishan-kr/Kishan-kr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
